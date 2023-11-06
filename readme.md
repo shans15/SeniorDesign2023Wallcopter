@@ -10,7 +10,3 @@ Current sections are:
 - docs: Project wide documentation. Individual sections may have their own docs.
 - site: Our github pages site
 The branch for each section should be named as develop-\<section\>
-
-## TODO
-Repository relevant todo items (not actual project TODOs):
-- [ ] Fill out this TODO section and the overall readme
